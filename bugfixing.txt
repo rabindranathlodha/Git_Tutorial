@@ -1,0 +1,1 @@
+I am a fix file wich is used to fix the bug of a file.
